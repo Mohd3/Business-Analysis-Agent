@@ -1,0 +1,10 @@
+streamlit
+langchain-community
+langchain
+langchain-google-genai
+langchain-tavily
+langchainhub
+pdfplumber
+pymysql
+faiss-cpu
+sentence-transformers
